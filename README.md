@@ -99,7 +99,7 @@ https://dummyjson.com/products
 
 ##  Screenshots
 
-![App Screenshot](images/Screenshot1.png)
+![image alt](https://github.com/janithamadushan453-debug/Shop-Hub/blob/c3033a02ed2232f1381225fc389f6a3f14275377/Screenshot1.png)
 
 ##  Learning Outcomes
 
