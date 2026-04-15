@@ -101,6 +101,8 @@ https://dummyjson.com/products
 
 ![image alt](https://github.com/janithamadushan453-debug/Shop-Hub/blob/c3033a02ed2232f1381225fc389f6a3f14275377/Screenshot1.png)
 ![image alt](https://github.com/janithamadushan453-debug/Shop-Hub/blob/63a4bd100f0c2e50cedea82262c402cc19a3d214/Screenshot2.png)
+![image alt](https://github.com/janithamadushan453-debug/Shop-Hub/blob/c41db53a6ad07cbb963b53c6a6f50025f0a0abe0/Screenshot3.png)
+
 ##  Learning Outcomes
 
 * Developed a scalable SPA using Vue 3
