@@ -44,11 +44,8 @@ The application is built using **Vue 3, TypeScript, and Tailwind CSS**, and it c
 
 ##  Installation Instructions
 
-### 1. Extract ZIP file
 
-Unzip the project folder.
-
-### 2. Open project in terminal
+### 1. Open project in terminal
 
 Navigate to the project directory:
 
@@ -56,7 +53,7 @@ Navigate to the project directory:
 cd your-project-folder
 ```
 
-### 3. Install dependencies
+### 2. Install dependencies
 
 ```bash
 npm install
@@ -99,12 +96,16 @@ https://dummyjson.com/products
 *  Dynamic routing (`/product/:id`)
 *  Dark mode support
 
--
 
 ##  Screenshots
 
-(Add screenshots of your application UI here)
+![alt text](<Screenshot 2026-04-15 144010.png>)
 
+
+![alt text](<Screenshot 2026-04-15 143825.png>)
+
+
+![alt text](<Screenshot 2026-04-15 143913.png>)
 ---
 
 ##  Learning Outcomes
@@ -116,7 +117,3 @@ https://dummyjson.com/products
 * Improved understanding of component-based development
 
 
-
-=======
-# Shop-Hub                  
->>>>>>> da1a8b2a814a8b915b924f80e54599b9df0a4cdb
