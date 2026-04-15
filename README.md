@@ -99,14 +99,8 @@ https://dummyjson.com/products
 
 ##  Screenshots
 
-![alt text](<Screenshot 2026-04-15 144010.png>)
+![Project Screenshot](![alt text](<Screenshot 2026-04-15 144010-3.png>))
 
-
-![alt text](<Screenshot 2026-04-15 143825.png>)
-
-
-![alt text](<Screenshot 2026-04-15 143913.png>)
----
 
 ##  Learning Outcomes
 
