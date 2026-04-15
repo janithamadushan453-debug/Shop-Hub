@@ -99,7 +99,7 @@ https://dummyjson.com/products
 
 ##  Screenshots
 
-![Project Screenshot](![alt text](<Screenshot 2026-04-15 144010-3.png>))
+![Project Screenshot](Screenshot1.png)
 
 
 ##  Learning Outcomes
