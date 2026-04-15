@@ -99,8 +99,7 @@ https://dummyjson.com/products
 
 ##  Screenshots
 
-![Project Screenshot](Screenshot1.png)
-
+![App Screenshot](images/Screenshot1.png)
 
 ##  Learning Outcomes
 
